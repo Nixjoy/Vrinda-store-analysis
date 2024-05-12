@@ -1,4 +1,3 @@
-**🌟Vrinda Store's 2022 Annual Sales Report! **
 **Objective / Business Problem:**
 🎯 Understanding our customers' preferences to fuel future sales growth.
 **Research Questions:**
